@@ -1,5 +1,5 @@
 {
-  "name": "ilp-packet",
+  "name": "ilp-packet-v1",
   "version": "2.2.0",
   "description": "Module for parsing and serializing ILP packets",
   "main": "dist/index.js",
